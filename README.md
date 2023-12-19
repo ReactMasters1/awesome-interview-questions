@@ -279,6 +279,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Babylon iOS Interview Questions](https://github.com/Babylonpartners/ios-playbook/blob/master/Interview/questions.md)
 * [RocketSkill App iOS Interview Questions](https://github.com/mindash/iOS-structured-interview)
 * [iOS Static vs Dynamic Dispatch](https://medium.com/flawless-app-stories/static-vs-dynamic-dispatch-in-swift-a-decisive-choice-cece1e872d)
+* [GCP Interview Questions](https://gcpmasters.in/gcp-interview-questions-and-answers/)
 
 ### Java
 
@@ -343,6 +344,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Gulp js interview questions](https://www.codeproject.com/Articles/1065184/Latest-Gulp-js-interview-questions)
 * [Grunt js interview questions for beginners](http://www.talkingdotnet.com/grunt-js-interview-questions/)
 * [Grunt js interview questions](https://mindmajix.com/grunt-interview-questions)
+
 
 ### KnockoutJS
 
@@ -427,6 +429,8 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Toptal's 21 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
 * [19 Essential ReactJs Interview Questions](https://www.educba.com/reactjs-interview-questions/)
 * [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
+*  [React interview questions](https://github.com/sudheerj/reactjs-interview-questions)
+* [50 + React js interview questions](https://reactmasters.in/react-js-interview-questions/)
 
 ### Ruby
 
@@ -487,6 +491,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 ### WordPress
 * [Top 45 WordPress interview questions](https://pangara.com/blog/blog45-wordpress-interview-questions-and-answers/)
 * [10 Essential WordPress Interview Questions](https://www.toptal.com/wordpress/interview-questions)
+* [Wordpress and Digital Marketing Interview Questions](https://www.digitalbrolly.com/digital-marketing-interview-questions/)
 
 ### TypeScript
 
@@ -494,7 +499,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Top 10 TypeScript Interview Questions and Answers for Beginner Web Developers 2019](https://www.positronx.io/typescript-interview-questions-answers-2109/)
 
 ## Database technologies
-
 
 ### Cassandra
 
